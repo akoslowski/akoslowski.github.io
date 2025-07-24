@@ -2,4 +2,7 @@ title: Your Site Title
 description: A brief description
 remote_theme: ronv/sidey
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
