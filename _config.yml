@@ -1,5 +1,5 @@
 title: Your Site Title
 description: A brief description
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: ronv/sidey
 plugins:
 - jekyll-remote-theme
