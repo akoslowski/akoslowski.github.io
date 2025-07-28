@@ -1,6 +1,6 @@
 title: Your Site Title
 description: A brief description
-baseurl: "https://akoslowski.github.io"
+
 permalink: pretty
 remote_theme: ronv/sidey
 plugins:
