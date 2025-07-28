@@ -5,6 +5,3 @@ permalink: pretty
 remote_theme: ronv/sidey
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
