@@ -1,6 +1,6 @@
 title: Your Site Title
 description: A brief description
-baseurl: ""
+baseurl: "https://akoslowski.gihub.io"
 permalink: pretty
 remote_theme: ronv/sidey
 plugins:
@@ -8,28 +8,3 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
